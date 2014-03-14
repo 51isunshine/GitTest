@@ -28,3 +28,6 @@ README
 -----
 > - 1)  Receive some “pull requests”
 > - 2)	There are some issues assign to me in github.
+
+
+#### <i class="icon-file"></i> documenttation
