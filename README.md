@@ -31,3 +31,5 @@ README
 
 
 #### <i class="icon-file"></i> documentation
+
+>> **@See:** Simple Git Introduce.pdf
