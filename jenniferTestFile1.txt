@@ -1,0 +1,17 @@
+branch master add ..
+
+branch jennifertest work¡­¡­
+
+¡­¡­
+¡­¡­
+¡­¡­
+
+branch jennifertest commit
+
+git check out master
+git pull
+git checkout jennifertest
+git rebase master
+git checkout master
+git merge jennifertest
+git push
